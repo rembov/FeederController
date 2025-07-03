@@ -62,7 +62,7 @@
 
 1. Клонируйте репозиторий:
 
-```git clone [https://github.com/rembov/FeederController.git]```
+```git clone https://github.com/rembov/FeederController.git```
 
 
 2. Откройте **FeederController.ino** в Arduino IDE.
