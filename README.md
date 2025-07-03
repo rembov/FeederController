@@ -71,9 +71,9 @@
 
 1. Клонируйте репозиторий:
 
-git clone [https://github.com/rembov/FeederController.git](https://github.com/rembov/FeederController.git)
+```git clone [https://github.com/rembov/FeederController.git](https://github.com/rembov/FeederController.git)```
 
-```
+
 2. Откройте **FeederController.ino** в Arduino IDE.
 3. Установите библиотеки через **Library Manager**.
 4. Подключите модули согласно `Settings.h`.
@@ -96,4 +96,4 @@ git clone [https://github.com/rembov/FeederController.git](https://github.com/re
 
 <p align="center">Made with ❤️ by <a href="https://github.com/rembov">rembov</a></p>
 
-```
+
