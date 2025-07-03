@@ -27,7 +27,7 @@
 ```plaintext
 /FeederController
 │
-├── FeederController.ino      # Главный скетч
+├── Feeding.ino      # Главный скетч
 └── src                       # Модули
     ├── Settings.h           # Пины и константы
     ├── RTCManager.h/cpp     # Инициализация RTC
