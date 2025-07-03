@@ -30,8 +30,9 @@ void handleEncoder(int8_t dir) {
       activeFeeder = (activeFeeder + dir + 4) % 4;
       break;
     case 8:
-      // в режиме выбора маски — изменение маски при Select, Encoder не крутит
+      selectedItem = (selectedItem + dir + 4) % 4;
       break;
+
   }
 }
 
